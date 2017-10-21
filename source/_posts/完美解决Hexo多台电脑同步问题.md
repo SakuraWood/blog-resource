@@ -1,7 +1,9 @@
 ---
 title: 解决Hexo多台电脑同步问题
 date: 2017-02-13 15:54:07
-tags:
+tags: hexo
+categories:
+- 其他
 ---
 
 ## 问题 

@@ -1,7 +1,9 @@
 ---
 title: 八大排序算法（python描述）
 date: 2017-06-13 15:54:07
-tags:
+tags: 算法
+categories:
+- 算法
 ---
 
 # 八大排序算法（python描述）

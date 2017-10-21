@@ -1,7 +1,9 @@
 ---
 title: LRU cache的简单实现
 date: 2017-06-25 15:54:07
-tags:
+tags: 算法
+categories:
+- 算法
 ---
 
 ## LRU是什么

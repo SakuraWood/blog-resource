@@ -1,3 +1,12 @@
+---
+title: URL
+date: 2017-02-12 19:36:07
+tags: 
+- url
+- http 
+categories:
+- 网络
+---
 # URL- 同一资源定位器
 
 语法规则：

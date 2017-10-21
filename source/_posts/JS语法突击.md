@@ -1,3 +1,10 @@
+---
+title: js语法
+date: 2017-02-12 19:36:07
+tags: javascript
+categories:
+- 前端
+---
 # JS 语法突击检查
 
 1. 知道`continue`吧？那你知道`label`语句吗？请说明使用方法。

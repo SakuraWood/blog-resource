@@ -1,3 +1,12 @@
+---
+title: gradle 学习笔记
+date: 2017-08-15 15:54:07
+tags: 
+- gradle 
+- android
+tags:
+- Android开发
+---
 # gradle上路篇
 
 作为写`Android`的人（虽然现在重心已经偏向`js`），当遇上`gradle`编译时各种各样的错误，，你却不知道怎么办，有时虽然解决了却不知道所以然，我想这样的经历绝不只有我一个。

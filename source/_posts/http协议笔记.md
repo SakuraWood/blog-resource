@@ -1,3 +1,10 @@
+---
+title: http协议（二）
+date: 2017-02-12 19:36:07
+tags: http
+categories:
+- 网络
+---
 # HTTP协议
 
 ## HTTP Request

@@ -1,7 +1,9 @@
 ---
 title: gulp简单用法
 date: 2017-04-18 09:36:07
-tags:
+tags: gulp
+categories:
+- 前端
 ---
 
 # gulp简单用法

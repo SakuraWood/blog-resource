@@ -1,3 +1,10 @@
+---
+title: python与java比较
+date: 2017-02-12 19:36:07
+tags: python java
+categories:
+- python
+---
 # python对比java
 
 

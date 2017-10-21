@@ -1,7 +1,9 @@
 ---
 title: Gulp构建工具
 date: 2017-06-27 15:54:07
-tags:
+tags: gulp
+categories:
+- 前端
 ---
 
 # Gulp构建工具

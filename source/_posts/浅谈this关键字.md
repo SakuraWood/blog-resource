@@ -1,7 +1,9 @@
 ---
 title: 浅谈JS中this关键字指向的对象
 date: 2017-05-6 09:42:07
-tags:
+tags: javascript
+categories:
+- 前端
 ---
 
 # 浅谈JS中this关键字指向的对象

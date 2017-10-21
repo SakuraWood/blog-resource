@@ -1,7 +1,9 @@
 ---
 title: Hexo+GitHub构建个人博客
 date: 2017-02-12 19:36:07
-tags:
+tags: hexo
+categories:
+- 其他
 ---
 
 ## 什么是Hexo？
