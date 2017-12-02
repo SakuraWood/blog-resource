@@ -54,6 +54,8 @@ categories:
 }
 ```
 
+<!-- more -->
+
 * 接下来再说一下gulpfile.js,这个呢，就是gulp的配置文件；
 
 ```javascript

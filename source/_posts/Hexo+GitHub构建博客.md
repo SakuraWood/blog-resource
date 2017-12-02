@@ -17,6 +17,8 @@ Hexo是一个快速，简单和强大的博客框架。你可以在短时间内�
 * Node.js
 * Git
 
+<!-- more -->
+
 ### 安装Node.js
 最好是通过nvm来安装Node.js。
 

@@ -4,7 +4,7 @@ date: 2017-08-15 15:54:07
 tags: 
 - gradle 
 - android
-tags:
+categories:
 - Android开发
 ---
 # gradle上路篇
@@ -28,6 +28,7 @@ $ gradle -b a.gradle yourtask
 
 <http://groovy-lang.org/documentation.html>
 
+<!-- more -->
 ## 项目示例
 有些人不想看也不想了解`Groovy`语言，那也没事，我直接拿个例子，看完你就想去看了，拿个android工程的构建脚本，先来最简单的，用`Android Studio`创建完一个新的`android`工程之后，`IDE`给你准备了大致上这样的东西：
 ![project](/images/android_new_project.png)

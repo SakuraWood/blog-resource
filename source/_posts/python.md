@@ -24,6 +24,8 @@ def xxx(*num):
 
 注意，list和tuple前面加上*也可以表示可变参数
 
+<!-- more -->
+
 4. 关键字参数
 def person(name, age, **kw):
     print 'name:', name, 'age:', age, 'other:', kw

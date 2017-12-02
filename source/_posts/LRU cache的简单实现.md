@@ -16,6 +16,8 @@ categories:
 
 java中可以使用LinkedHashMap来实现，但我这里只给个简单的实现。
 
+<!-- more -->
+
 ```python
 
 class Node(object):

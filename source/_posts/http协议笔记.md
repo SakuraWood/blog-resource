@@ -34,6 +34,8 @@ GET代表请求方法，/sample.jsp表示URI，“HTTP/1.1代表协议和协议�
 7. TRACE  请求服务器回送收到的请求信息，主要用语测试或诊断。
 其中最常用的是GET和POST。
 
+<!-- more -->
+
 ② 请求头
 Accept:image/gif.image/jpeg,*/*
 Accept-Language:zh-cn
